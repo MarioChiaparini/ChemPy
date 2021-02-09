@@ -1,5 +1,5 @@
 <h1 align="center">
-    <a>🌌 ChemAI</a>
+    <a>💎 MineAI</a>
 </h1>
 <p align="center">💎 The Artificial Intelligence that can analyze minerals </p>
 
