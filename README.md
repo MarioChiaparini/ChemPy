@@ -14,16 +14,21 @@ the graphs. Beacuse for most of the geologists and chemists analyze the raman gr
 	<br>
 	I decide to put five types of minerals:
 	<br>
+	<br>
 	-Gold
 	<br>
 	<br>
 	-Potassium Dihydrogen Phosphate
 	<br>
+	<br>
 	-Diamond
+	<br>
 	<br>
 	-Iron
 	<br>
+	<br>
 	-Quartz
+	<br>
 	<br>
 The data was catch from the site : https://rruff.info/
 
