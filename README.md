@@ -15,7 +15,7 @@ the graphs. Beacuse for most of the geologists and chemists analyze the raman gr
 	I decide to put five types of minerals:
 	<br>
 	-Gold
-	<img src="">
+	<img src="../ChemPy/gold.png">
 	<br>
 	-Potassium Dihydrogen Phosphate
 	<br>
