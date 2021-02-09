@@ -13,11 +13,17 @@ This project had one goal, predict minerals by yout raman shift data, with some 
 the graphs. Beacuse for most of the geologists and chemists analyze the raman graphs it is not that easy, so as chemical enigineering student and a programmer I decide to create a model that could save time of geologist or chemists from mining companies. 
 	<br>
 	I decide to put five types of minerals:
+	<br>
 	-Gold
-	-Potassium Dihydrogen Phosphate 
+	<br>
+	-Potassium Dihydrogen Phosphate
+	<br>
 	-Diamond
+	<br>
 	-Iron
+	<br>
 	-Quartz
+	<br>
 The data was catch from the site : https://rruff.info/
 
 </p>
