@@ -8,4 +8,16 @@
 	
 </h4>
 <h1 align="center"><img src="http://ForTheBadge.com/images/badges/made-with-python.svg"/> </a>
+<p>
+This project had one goal, predict minerals by yout raman shift data, with some chemical instruments of analysis the model can make a prediction without seeing
+the graphs. Beacuse for most of the geologists and chemists analyze the raman graphs it is not that easy, so as chemical enigineering student and a programmer I decide to create a model that could save time of geologist or chemists from mining companies. 
+	I decide to put five types of minerals:
+	-Gold
+	-Potassium Dihydrogen Phosphate 
+	-Diamond
+	-Iron
+	-Quartz
+The data was catch from the site : https://rruff.info/
+
+</p>
 
