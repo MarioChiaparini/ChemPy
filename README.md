@@ -5,6 +5,7 @@
 
 <h4 align="center"> 
 	🚧  Those jupyter notebooks are not done yet, but I am doying my best to finish and check everything  🚧
-	<img src="http://ForTheBadge.com/images/badges/made-with-python.svg"/> 
+	
 </h4>
+<h1 align="center"><img src="http://ForTheBadge.com/images/badges/made-with-python.svg"/> </a>
 
