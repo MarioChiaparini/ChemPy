@@ -16,7 +16,6 @@ the graphs. Beacuse for most of the geologists and chemists analyze the raman gr
 	<br>
 	-Gold
 	<br>
-	<img src="ChemPy/Images/gold.jpg">
 	<br>
 	-Potassium Dihydrogen Phosphate
 	<br>
@@ -29,5 +28,5 @@ the graphs. Beacuse for most of the geologists and chemists analyze the raman gr
 The data was catch from the site : https://rruff.info/
 
 </p>
-<img src="ChemPy/Images/gold.jpg">
+
 
