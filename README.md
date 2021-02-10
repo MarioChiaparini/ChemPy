@@ -4,7 +4,7 @@
 <p align="center">💻 The Artificial Intelligence that can analyze minerals </p>
 
 <h4 align="center"> 
-	🚧  The model is done, but I am working into a real data application for this AI  🚧
+	🚧  The model is done, but I am working into a real time data application for this AI  🚧
 	
 </h4>
 <h4 align="center"><img src="http://ForTheBadge.com/images/badges/made-with-python.svg"/> </h4>
