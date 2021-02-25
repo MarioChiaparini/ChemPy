@@ -30,9 +30,9 @@ the graphs. Beacuse for most of the geologists and chemists, analyze the raman g
 	-Quartz
 	<br>
 	<br>
- <img src=”https://github.com/MarioChiaparini/ChemPy/blob/main/images/mineAIinterface.PNG”>
+
 The data was catch from the site : https://rruff.info/
 
 </p>
 
-
+ <img src=”../MarioChiaparini/ChemPy/blob/main/images/mineAIinterface.PNG”>
