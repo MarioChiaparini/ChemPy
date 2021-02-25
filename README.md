@@ -54,7 +54,7 @@ the graphs. Beacuse for most of the geologists and chemists, analyze the raman g
 <h4 align="center"><img src="https://github.com/MarioChiaparini/ChemPy/blob/main/images/resp.PNG"/> </h4>
 
 <p>
-	You just need put one example your database (Raman shift x Insitensity) that you got from your chemical spectrum analysis, than the AI will predict if your ore is a real diamond, gold, etc...
+	You just need put one example from your database (Raman shift x Insitensity) that you got from your chemical spectrum analysis, than the AI will predict if your ore is a real diamond, gold, etc...
 </p>
 <p>
 The data was catch from the site : https://rruff.info/
