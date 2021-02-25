@@ -4,7 +4,7 @@
 <p align="center">💻 The Artificial Intelligence that can analyze minerals </p>
 
 <h4 align="center"> 
-	🚧  The model is done, but I am working into a real time data application for this AI  🚧
+	🚧 I'm on the beta version of the AI aplication  🚧
 	
 </h4>
 <h4 align="center"><img src="http://ForTheBadge.com/images/badges/made-with-python.svg"/> </h4>
@@ -20,3 +20,8 @@ The data was catch from the site : https://rruff.info/
 
 </p>
 <h4 align="center"><img src="https://github.com/MarioChiaparini/ChemPy/blob/main/images/mineAIinterface.PNG"/> </h4>
+<p> 
+{% filename %}command-line{% endfilename %}
+
+    >
+</p>
