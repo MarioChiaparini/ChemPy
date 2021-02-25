@@ -47,4 +47,10 @@ The data was catch from the site : https://rruff.info/
 	python app.py
 </p>
 
+<h4 align="center"><img src="https://github.com/MarioChiaparini/ChemPy/blob/main/images/http.PNG"/> </h4>
+<h4 align="center"><img src="https://github.com/MarioChiaparini/ChemPy/blob/main/images/mineai.PNG"/> </h4>
+<h4 align="center"><img src="https://github.com/MarioChiaparini/ChemPy/blob/main/images/resp.PNG"/> </h4>
 
+<p>
+	You just need to put one line from your database (Raman shift x Insitensity) from your chemical spectrum analysis, than the AI will predict if your ore is a real diamond, gold, etc...
+</p>
