@@ -16,7 +16,7 @@ This project had one goal, predict minerals by their raman shift data, with some
 the graphs. Beacuse for most of the geologists and chemists, analyze the raman graphs it is not that easy, so as chemical enigineering student and a programmer I decide to create a model that could save time of geologist or chemists from mining companies. 
 
 
-The data was catch from the site : https://rruff.info/
+
 
 </p>
 <h4 align="center"><img src="https://github.com/MarioChiaparini/ChemPy/blob/main/images/mineAIinterface.PNG"/> </h4>
@@ -55,4 +55,7 @@ The data was catch from the site : https://rruff.info/
 
 <p>
 	You just need put one example your database (Raman shift x Insitensity) that you got from your chemical spectrum analysis, than the AI will predict if your ore is a real diamond, gold, etc...
+</p>
+<p>
+The data was catch from the site : https://rruff.info/
 </p>
