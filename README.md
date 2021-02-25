@@ -35,4 +35,4 @@ The data was catch from the site : https://rruff.info/
 
 </p>
 
- <img src=”/main/images/mineAIinterface.PNG”>
+ <img src=”images/mineAIinterface.PNG”>
