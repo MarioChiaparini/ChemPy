@@ -48,7 +48,9 @@ The data was catch from the site : https://rruff.info/
 </p>
 
 <h4 align="center"><img src="https://github.com/MarioChiaparini/ChemPy/blob/main/images/http.PNG"/> </h4>
+<br>
 <h4 align="center"><img src="https://github.com/MarioChiaparini/ChemPy/blob/main/images/mineai.PNG"/> </h4>
+<br>
 <h4 align="center"><img src="https://github.com/MarioChiaparini/ChemPy/blob/main/images/resp.PNG"/> </h4>
 
 <p>
