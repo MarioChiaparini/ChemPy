@@ -21,7 +21,30 @@ The data was catch from the site : https://rruff.info/
 </p>
 <h4 align="center"><img src="https://github.com/MarioChiaparini/ChemPy/blob/main/images/mineAIinterface.PNG"/> </h4>
 <p> 
+	Intalling Flask :
 {% filename %}command-line{% endfilename %}
-
-    >
+	
+	pip install flask
 </p>
+<p>
+	Installing Sklearn :
+{% filename %}command-line{% endfilename %}
+	
+	pip install sklearn
+</p>
+
+<p>
+	First you need to run the model :
+{% filename %}command-line{% endfilename %}
+	
+	python model.py
+</p>
+
+<p>
+	Run the Web application:
+{% filename %}command-line{% endfilename %}
+	
+	python app.py
+</p>
+
+
