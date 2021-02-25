@@ -9,7 +9,7 @@
 </h4>
 <h4 align="center"><img src="http://ForTheBadge.com/images/badges/made-with-python.svg"/> </h4>
 
- ![](https://github.com/MarioChiaparini/ChemPy/blob/main/images/mineAIinterface.PNG)
+<a align="center"> ![](https://github.com/MarioChiaparini/ChemPy/blob/main/images/mineAIinterface.PNG) </a>
 <p>
 	
 This project had one goal, predict minerals by their raman shift data, with some chemical instruments of analysis the model can make a prediction without seeing
